@@ -1,8 +1,0 @@
-
-# Requirements for Python 3.8.18 environment
-flask==2.3.2
-requests==2.31.0
-numpy==1.24.4
-pandas==2.1.1
-sqlalchemy==2.0.21
-pytest==7.4.2
